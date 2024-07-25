@@ -80,6 +80,6 @@ I welcome contributions to improve this portfolio website! If you have any sugge
 If you have any questions or want to get in touch, you can reach me at:
 
 - Email: [francoromero.work@gmail.com](mailto:francoromero.work@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/franco-e-romero)
+- LinkedIn: [https://www.linkedin.com/in/franco-e-romero](https://www.linkedin.com/in/franco-e-romero)
 
 Thank you for visiting my portfolio website!
