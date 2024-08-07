@@ -8,7 +8,6 @@ Welcome to my portfolio website! This site showcases my skills, projects, and ex
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [Contact](#contact)
 
 ## About
@@ -55,25 +54,6 @@ Feel free to explore the different sections of the website:
 - **Projects**: Detailed descriptions of my projects.
 - **Experience**: Detailed descriptions of my experiences.
 - **Technical Skills**: A list of my technical skills.
-
-## Contributing
-
-I welcome contributions to improve this portfolio website! If you have any suggestions or improvements, please follow these steps:
-
-1. **Fork the repository**.
-2. **Create a new branch**:
-    ```bash
-    git checkout -b feature/your-feature-name
-    ```
-3. **Make your changes and commit them**:
-    ```bash
-    git commit -m 'Add some feature'
-    ```
-4. **Push to the branch**:
-    ```bash
-    git push origin feature/your-feature-name
-    ```
-5. **Open a pull request**.
 
 ## Contact
 
